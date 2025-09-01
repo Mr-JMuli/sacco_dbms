@@ -20,6 +20,11 @@ The system models how a Sacco (Savings and Credit Cooperative) manages members, 
   - Relationships (1–1, 1–M, M–M where applicable)  
   - Sample insert statements for testing  
 
+
+## 🖼️ ERD (Entity Relationship Diagram)
+
+![Sacco ERD](sacco_db_ERD.png)
+
 ---
 
 ## 🛠️ How to Use
